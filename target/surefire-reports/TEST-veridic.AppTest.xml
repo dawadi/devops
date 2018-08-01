@@ -7,7 +7,7 @@
     <property name="java.specification.version" value="1.8"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\deepe\Documents\Maven_Project\Java_mvn_jenkins\target\test-classes;C:\Users\deepe\Documents\Maven_Project\Java_mvn_jenkins\target\classes;C:\Users\deepe\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\deepe\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="X:\git\devops\target\test-classes;X:\git\devops\target\classes;C:\Users\deepe\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\deepe\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -18,20 +18,20 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_171\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\deepe\AppData\Local\Temp\surefire8671841828484119510\surefirebooter1819470493913851174.jar C:\Users\deepe\AppData\Local\Temp\surefire8671841828484119510 2018-08-01T11-21-11_629-jvmRun1 surefire7244662913074014750tmp surefire_08218549300275648150tmp"/>
-    <property name="surefire.test.class.path" value="C:\Users\deepe\Documents\Maven_Project\Java_mvn_jenkins\target\test-classes;C:\Users\deepe\Documents\Maven_Project\Java_mvn_jenkins\target\classes;C:\Users\deepe\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\deepe\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.java.command" value="C:\Users\deepe\AppData\Local\Temp\surefire5569237592869987682\surefirebooter2752399694384911789.jar C:\Users\deepe\AppData\Local\Temp\surefire5569237592869987682 2018-08-01T11-32-50_639-jvmRun1 surefire663163758181739807tmp surefire_01315210925844597148tmp"/>
+    <property name="surefire.test.class.path" value="X:\git\devops\target\test-classes;X:\git\devops\target\classes;C:\Users\deepe\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\deepe\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\deepe"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_171\jre"/>
-    <property name="basedir" value="C:\Users\deepe\Documents\Maven_Project\Java_mvn_jenkins"/>
+    <property name="basedir" value="X:\git\devops"/>
     <property name="file.separator" value="\"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\deepe\AppData\Local\Temp\surefire8671841828484119510\surefirebooter1819470493913851174.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\deepe\AppData\Local\Temp\surefire5569237592869987682\surefirebooter2752399694384911789.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_171\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_171\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -47,7 +47,7 @@
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\deepe\AppData\Local\Temp\"/>
     <property name="java.version" value="1.8.0_171"/>
-    <property name="user.dir" value="C:\Users\deepe\Documents\Maven_Project\Java_mvn_jenkins"/>
+    <property name="user.dir" value="X:\git\devops"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="veridic.AppTest" time="0.002"/>
+  <testcase name="shouldAnswerWithTrue" classname="veridic.AppTest" time="0.001"/>
 </testsuite>
