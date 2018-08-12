@@ -11,6 +11,6 @@ public class App
 		System.out.println( "======================================================================================" );
         System.out.println( "Hello World!" );
 		System.out.println( "This is a test from Jenkins with MVN plugin!" );
-		System.out.println( "=======This file has been edited=============" );
+		System.out.println( "=======This file has been edited twice=============" );
 	}
 }
